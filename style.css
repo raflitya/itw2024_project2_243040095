@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(#3A3960 , #FFCFEF, #FFCFEF,#3A3960);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+/* halaman 1 */
+.img1{
+    width: 30rem;
+
+}
+
+.sm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFCFEF;
+    flex-direction: column;
+    margin-top: 6rem;
+}
+
+.dropdown-menu{
+    background-color: #3A3960;
+}
+
+/* halaman 2 */
+.halaman2{
+    background: linear-gradient(#ffffff 0% , #ffffffc3 40%, #FFCFEF 100%);
+    padding-top: 55px;
+    padding-bottom: 25rem;
+   
+}
+
+
+/* halaman 3 */
+
+.halaman3{
+    padding-top: 55px;
+}
+
+
+
+
+/* footer */
+.footer{
+    background-color: #fff;
+    padding-bottom: 1rem;
+}
+
+.contact a{
+    color: #3A3960;
+    font-size: 2rem;
+}
+
+.watermark{
+    padding-top: 4rem;
+}
